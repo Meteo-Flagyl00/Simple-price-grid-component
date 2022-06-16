@@ -83,6 +83,10 @@ button {
     border-radius: 5px;
 }
 
+button:hover{
+    color: gray;
+}
+
 .AboutUs {
     padding: 1.7em;
     background-color: #4ABEBD;
