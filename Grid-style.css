@@ -14,7 +14,7 @@ body {
 }
 
 .Content {
-    max-width: 650px;
+    max-width: 620px;
     margin: auto;
     display: grid;
     grid-template-columns: repeat(2,1fr);
