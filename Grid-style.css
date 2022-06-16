@@ -63,14 +63,19 @@ body {
     color: white;
 }
 
-.p-sub1 {
-    color: gainsboro;
+h3 {
+    font-size: 30px;
+    margin: 20px 0px 10px;
+    display: flex;
+    align-items: center;
+    color: white;
 }
 
  span {
-    color: white;
-    font-size: 1.950rem;
-    font-weight: 700;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 10px;
+    color: rgba(211,227,248,.856);
 }
 
 
